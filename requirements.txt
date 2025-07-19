@@ -1,0 +1,6 @@
+numpy==1.24.4
+torch==2.1.0
+ultralytics==8.2.103
+opencv-python==4.8.0.76
+easyocr==1.7.1
+Pillow
